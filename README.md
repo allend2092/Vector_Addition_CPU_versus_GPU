@@ -50,5 +50,3 @@ Vector addition is a fundamental operation that appears in various real-world ap
 These are just a few examples. The utility of vector addition is vast and spans multiple disciplines.
 
 ---
-
-Feel free to copy and paste this into your GitHub README page!
