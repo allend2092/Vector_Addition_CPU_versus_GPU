@@ -1,5 +1,3 @@
-Certainly! Here's a Markdown-formatted summary of the program along with the real-world applications of vector addition:
-
 ---
 
 ## Vector Addition: CPU vs GPU
